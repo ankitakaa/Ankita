@@ -1,0 +1,10 @@
+C:\Users\saxen\source\repos\InterviewForm\InterviewForm\bin\Debug\InterviewForm.exe.config
+C:\Users\saxen\source\repos\InterviewForm\InterviewForm\bin\Debug\InterviewForm.exe
+C:\Users\saxen\source\repos\InterviewForm\InterviewForm\bin\Debug\InterviewForm.pdb
+C:\Users\saxen\source\repos\InterviewForm\InterviewForm\obj\Debug\InterviewForm.csprojAssemblyReference.cache
+C:\Users\saxen\source\repos\InterviewForm\InterviewForm\obj\Debug\InterviewForm.Form1.resources
+C:\Users\saxen\source\repos\InterviewForm\InterviewForm\obj\Debug\InterviewForm.Properties.Resources.resources
+C:\Users\saxen\source\repos\InterviewForm\InterviewForm\obj\Debug\InterviewForm.csproj.GenerateResource.cache
+C:\Users\saxen\source\repos\InterviewForm\InterviewForm\obj\Debug\InterviewForm.csproj.CoreCompileInputs.cache
+C:\Users\saxen\source\repos\InterviewForm\InterviewForm\obj\Debug\InterviewForm.exe
+C:\Users\saxen\source\repos\InterviewForm\InterviewForm\obj\Debug\InterviewForm.pdb
